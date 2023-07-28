@@ -6,9 +6,6 @@
 L'idée de ResDigita est un internet fait pour, par et des utilisateurs, nous ! Nous pensons que globalement le [Contrat pour le web](https://www.contractfortheweb.org/fr/) est une bonne base pour ce faire et participons au [Numérique créatif des Grands Voisins](https://www.lesgrandsvoisins.com/mission/resdigita/numerique-creatif/) avec une [Salle de sociabilité numérique le lundi de 16h à 19h](https://www.lesgrandsvoisins.com/mission/resdigita/numerique-creatif/sociabilite-numerique/) pour laquelle nous aimerions des [bénévoles](https://blog.lesgrandsvoisins.com/numerique-creatif-des-grands-voisins/).
 
 
-The changes don't seem to work well yet
-
-
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language search
