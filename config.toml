@@ -1,7 +1,7 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
-relativeURLs = false
-disablePathToLower = true
+baseURL = "https://www.resdigita.org/"
+languageCode = "fr-fr"
+relativeURLs = true
+disablePathToLower = false
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
