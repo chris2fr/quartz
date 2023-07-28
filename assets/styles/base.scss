@@ -310,7 +310,7 @@ hr {
 
 .page-end {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: row;
   gap: 2em;
 
   @media all and (max-width: 780px) {
@@ -337,16 +337,18 @@ hr {
   }
 
   & #graph-container {
-    border: var(--outlinegray) 1px solid;
-    border-radius: 5px;
     box-sizing: border-box;
-    height: 80vh;
+    height: 45vh;
     margin: 0.5em 0;
 
     & > svg {
-      margin-bottom: -5px;
-      height: 80vh;
-      width: 80vw;
+      height: 55vh;
+      top: 12rem;
+      width: 100vw;
+      position: absolute;
+      z-index: 10;
+      left: 0;
+      scale: 1.3;
 
     }
   }

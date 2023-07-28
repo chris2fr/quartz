@@ -2,36 +2,30 @@
 # A different set of Local Graphs will be shown on sub pages.
 # if false, Local Graph will be default on every page as usual
 enableGlobalGraph: true
-
 ### Local Graph ###
-
 localGraph:
-    enableLegend: true
+    enableLegend: false
     enableDrag: true
-    enableZoom: true
+    enableZoom: false
     depth: 1 # set to -1 to show full graph
-    scale: 1.2
+    scale: 1.5
     repelForce: 2
     centerForce: 1
     linkDistance: 1
     fontSize: 0.6
     opacityScale: 3
-
 ### Global Graph ###
-
 globalGraph:
-    enableLegend: true
+    enableLegend: false
     enableDrag: true
-    enableZoom: true
+    enableZoom: false
     depth: -1 # set to -1 to show full graph
-    scale: 1.4
+    scale: 1.7
     repelForce: 1
     centerForce: 1
     linkDistance: 1
     fontSize: 0.5
     opacityScale: 3
-
 ### For all graphs ###
-
 paths:
   - /moc: "#4388cc"

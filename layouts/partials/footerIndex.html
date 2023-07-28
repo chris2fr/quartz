@@ -1,13 +1,6 @@
 {{if $.Site.Data.config.enableFooter}}
-  {{if $.Site.Data.graphConfig.enableGlobalGraph}}
-      <div class="page-end" id="footer">
 
-        <div>
-            {{partial "graph.html" .}}
-        </div>
 
-      </div>
-  {{else}}
       <hr/>
       <div class="page-end" id="footer">
         <div class="backlinks-container">
@@ -18,7 +11,7 @@
         </div>
 
       </div>
-  {{end}}
+
 {{end}}
 
 {{partial "contact.html" .}}
