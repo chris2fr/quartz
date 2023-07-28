@@ -13,6 +13,7 @@ enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
 enableFooter: true
+
 GitHubLink: https://github.com/chris2fr/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
