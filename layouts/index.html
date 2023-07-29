@@ -3,18 +3,31 @@
 {{ partial "head.html" . }}
 
 <body>
-{{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
+
+  {{partial "graph-container.html" .}}
+  <div class="top">
+    {{partial "search.html" .}}
     {{partial "header.html" .}}
+    </div>
+  <div class="singlePage">
+<p class="meta">
+  {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
+    {{ partial "github.html" . }}
+</p>
+    <!-- Begin actual content -->
+    <a name="artitle"> </a>
     <article>
+      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
     </article>
-    {{partial "footerIndex.html" .}}
+    
+</div>
+<div class="top">
+  {{partial "footerIndex.html" .}}
 </div>
 </body>
 </html>

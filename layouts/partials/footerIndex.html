@@ -1,4 +1,4 @@
-{{if $.Site.Data.config.enableFooter}}
+{{if (and $.Site.Data.config.enableFooter (ne .Params.enableFooter false))}}
 
 
       <hr/>
@@ -7,6 +7,8 @@
             {{partial "backlinks.html" .}}
         </div>
         <div>
+          <a href="#top">&nbsp;⬆&nbsp;</a>
+
             {{partial "graph.html" .}}
         </div>
 

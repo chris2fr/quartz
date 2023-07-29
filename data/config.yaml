@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/chris2fr/quartz/tree/hugo/content
@@ -22,5 +22,9 @@ description:
 page_title:
   "🌐 ResDigita par 🗼 LesGrandsVoisins.Com"
 links:
-  - link_name: LesGrandsVoisins.com
+  - link_name: Www.LesGrandsVoisins.com
     link: https://www.lesgrandsvoisins.com
+  - link_name: App.
+    link: https://app.lesgrandsvoisins.com
+  - link_name: Blog.
+    link: https://blog.lesgrandsvoisins.com

@@ -177,7 +177,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
           internal: true,
           graph: true,
         }
-      })
+      });
     })
     .on("mouseover", function(_, d) {
       d3.selectAll(".node").transition().duration(100).attr("fill", "var(--g-node-inactive)")

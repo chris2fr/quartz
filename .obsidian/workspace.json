@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "715125402f075eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e8fbab95864055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a687c15bd21398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a3278301a863f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4187ef9f665f2a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e2f4464ec5bf4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a04ea20813363c9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95b2e60f1e853bd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a93e672ea830f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7e29c64738b356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87e8535fdf06d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26b3334e2cb97477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2d989b75d02db5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8deb9d2b74434996",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "90a687c15bd21398",
+  "lastOpenFiles": [
+    "public/js/graph.e38111ab56c8c2c12d92ea54fee3954d.js",
+    "public/js/graph.08d264007b19f9bcf190b3cce1d6e0ee.js",
+    "public/js/graph.41306d91111fdec7e10d46319819ddfa.js",
+    "public/styles.44529733b336c6f120cdfb3298263013.min.css",
+    "public/indices/contentIndex.8446099df77f051503f98a8fd8cbab71.min.json",
+    "public/js/graph.8bab6807f099785405dffdcfd67de0c4.js",
+    "public/styles.9f786c9c259c6a39737f523e39e7de98.min.css",
+    "public/styles.713b7d88997112a0c47f7e83eadd44e5.min.css",
+    "public/styles.9b2852964e2757ff9e7b05d611f5c436.min.css",
+    "layouts/partials/graph-container.html",
+    "public/styles.9133a845bcb614ade14ea17bb6d037e5.min.css",
+    "content/notes/user.md",
+    "content/notes/interdependance.md",
+    "content/_index.md",
+    "content/notes/services.md",
+    "public/fonts/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
+    "public/fonts/fonts/fengardoneue/fengardoneue_black-webfont.svg",
+    "content/notes/numcrea.md",
+    "public/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
+    "public/fonts/fengardoneue/fengardoneue_black-webfont.svg",
+    "assets/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
+    "assets/fonts/fengardoneue/fengardoneue_black-webfont.svg",
+    "assets/styles/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
+    "assets/styles/fonts/fengardoneue/fengardoneue_black-webfont.svg",
+    "content/notes/infrastructure.md",
+    "content/notes/resdigitacom-mail.md",
+    "public/notes/images/socnum-trees.png",
+    "public/notes/images/socnum-refuge-eglise.jpg",
+    "content/private/content/notes/callouts.md",
+    "content/private/content/notes/CJK + Latex Support (测试).md",
+    "content/private/content/notes/config.md",
+    "content/private/content/notes/search.md",
+    "content/private/content/notes/obsidian.md",
+    "content/private/content/notes/hosting.md",
+    "content/private/content/notes/docker.md",
+    "notes/resdigitacom-mail.md",
+    "content/private/content/notes/philosophy.md"
+  ]
+}

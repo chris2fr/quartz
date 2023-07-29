@@ -20,10 +20,10 @@ other = "les 10 premiers résultats"
 other = "Tag"
 
 [backlinks]
-other = "Backlinks"
+other = "Retroliens"
 
 [no_backlinks]
-other = "Pas de backlinks trouvés"
+other = "Pas de retroliens trouvés"
 
 [home]
 other = "Accueil"
@@ -62,4 +62,4 @@ other = "Rechercher quelque-chose..."
 other = "Table des matières"
 
 [copyright]
-other = "Fait par {{ .name }} en utilisant <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+other = "Fait par {{ .name }} par <a href=\"https://www.lesgrandsvoisins.com\">LesGrandsVoisins.com</a>, © {{ .year }}"

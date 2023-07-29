@@ -19,6 +19,9 @@
   <meta name="twitter:title" content="{{ .Title }}" />
   <meta name="twitter:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
   <meta name="twitter:image" content="{{.Site.BaseURL}}icon.png">
+  <link href="/fonts/lack/stylesheet.css" rel="stylesheet" id="theme-link">
+  <link href="/fonts/fengardoneue/font.css" rel="stylesheet" id="theme-link">
+
   {{ range $data.links }}
     {{ if strings.Contains .link "twitter.com" }}
       {{ $twitter_handle := index (split .link "/") (sub (len (split .link "/")) 1) }}
@@ -73,8 +76,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
-  {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
-  resources.Minify }}
+  {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" | resources.Minify }}
   <script defer src="{{$popover.Permalink}}"></script>
 
   <!-- Optional scripts -->
@@ -147,7 +149,8 @@
       {{end}}
 
       {{if $data.enableFooter | default $.Site.Data.config.enableFooter}}
-      const footer = document.getElementById("footer")
+      // const footer = document.getElementById("footer")
+      const footer = document.getElementById("header-graph")
       if (footer) {
         const container = document.getElementById("graph-container")
         // retry if the graph is not ready
