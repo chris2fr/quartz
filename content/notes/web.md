@@ -1,5 +1,5 @@
 ---
-title: "🌐 Web complémentaire🗼"
+title: "🔆🌍🌙 Web complémentaire"
 enableToc: false
 enableFooter: true
 date: 2023-07-30
