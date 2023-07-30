@@ -2,14 +2,11 @@
 <html lang="{{ .Lang }}">
 {{ partial "head.html" . }}
 <body>
-<div class="top">
-{{partial "search.html" .}}
-{{partial "header.html" .}}
-</div>
 
 <div class="singlePage">
     <!-- Begin actual content -->
-    <a name="artitle"> </a>
+    {{partial "search.html" .}}
+    {{partial "header.html" .}}
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
@@ -33,7 +30,7 @@
     </article>
     {{partial "footer.html" .}}
 </div>
-{{partial "graph-container.html" .}}
+{{partial "graph.html" .}}
 
 </body>
 </html>

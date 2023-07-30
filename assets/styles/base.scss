@@ -64,17 +64,22 @@ h1 {
   animation: decreaseFontSize 1s ease-in-out forwards; /* Animation to decrease the font size */
   
   width: fit-content;
+  // white-space: nowrap;
 
   @keyframes decreaseFontSize {
     0% {
       font-size: 100vh; /* Same as the starting font size */
       margin-top: 0; /* Same as the starting margin */
+      opacity: 0;
+      white-space: nowrap;
+    }
+    99% {
       white-space: nowrap;
     }
     100% {
       font-size: 3em; /* Normal font size, you can adjust this value */
       margin-top: 0; /* Reset the margin to center the heading vertically */
-      white-space: wrap;
+      white-space: normal;
     }
   }
 }
@@ -375,7 +380,8 @@ hr {
 
 #graph-container {
   box-sizing: border-box;
-  height: 45vh;
+  height: 400px;
+  width: 100%;
   margin: 0.5em 0;
   overflow: hidden;
 

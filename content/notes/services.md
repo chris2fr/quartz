@@ -8,7 +8,7 @@ Savez-vous que nous-mêmes, nous pouvons gérer nos propres services sur le clou
 
 1. Nous sommes les gestionnaires de nos propres informations et traitements
 2. Nous pourrions bénéficier des services très avancés pour des coûts relativement modestes
-3. Nous bénéficions et contribuons aux mouvements généreux de Libre and Open-Source Software et le [Contrat pour le web](https://www.contractfortheweb.org/fr/) selon une notion [d'interdépendance numérique](/notes/interdependance).
+3. Nous bénéficions et contribuons aux mouvements généreux de Libre and Open-Source Software et le [Contrat pour le web](https://www.contractfortheweb.org/fr/).
 
 En conséquence, nous proposons de développer des services et expertises pour gérer :
 

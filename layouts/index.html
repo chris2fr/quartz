@@ -3,13 +3,9 @@
 {{ partial "head.html" . }}
 
 <body>
-
-  {{partial "graph-container.html" .}}
-  <div class="top">
+  <div class="singlePage">
     {{partial "search.html" .}}
     {{partial "header.html" .}}
-    </div>
-  <div class="singlePage">
 <p class="meta">
   {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
     {{ partial "github.html" . }}
@@ -20,13 +16,13 @@
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
     </article>
-    
 </div>
+{{partial "graph-container.html" .}}
 <div class="top">
+  {{if $.Site.Data.config.enableRecentNotes}}
+  {{partial "recent.html" . }}
+{{end}}
   {{partial "footerIndex.html" .}}
 </div>
 </body>

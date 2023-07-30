@@ -1,0 +1,27 @@
+---
+date: 2021-08-27
+title: "Gazette Voisine #5"
+---
+Bienvenue à la Gazette des Grands Voisins numéro 5 ! La semaine a été productive et les choses se clarifient. Ce numéro et [les numéros précédents se trouvent ici](https://forum.lesgrandsvoisins.com/c/gazette/6).
+
+## [](https://forum.lesgrandsvoisins.com/t/la-gazette-voisine-5-2021-08-27/92#passage-la-technologie-apostrophe-cmshttpsmailinglesgrandsvoisinscomtpassage-a-la-technologie-apostrophe-cms76-sur-wwwlesgrandsvoisinscomhttpswwwlesgrandsvoisinscom-1)[Passage à la technologie Apostrophe CMS](https://forum.lesgrandsvoisins.com/t/passage-a-la-technologie-apostrophe-cms/76) sur [www.lesgrandsvoisins.com](https://www.lesgrandsvoisins.com/)
+
+Nous avons mis en place la technologie Apostrophe CMS sur le site [www.lesgrandsvoisins.com](https://www.lesgrandsvoisins.com/). Cela nous permet de modifier le contenu à travers le site web. [@poekels](https://forum.lesgrandsvoisins.com/u/poekels) a pu prendre la main et trouve bien pratique pour nos besoins. Cela nous permet une parfaite maîtrise de l’aspect design de notre site tout en rendant la maîtrise des messages transmis aux éditeurs.
+
+[ApostropheCMS](https://www.apostrophecms.com/) nous a contacté pour mettre en valeur notre utilisation de leur technologie. J’avais pris soin dans mon choix d’eux car je recherchais l’excellence en architecture logicielle libre. On dirait que l’affinité est mutuelle. Par ailleurs, la version entreprise (toujours libre, mais avec un prix) d’ApostropheCMS peut être avantageux pour d’autres Voisins. J’ai pris soin de publier en libre [le template des Grands Voisins](https://github.com/lesgrandsvoisins/apostrophe-landing) pour l’usage d’autrui.
+
+## [](https://forum.lesgrandsvoisins.com/t/la-gazette-voisine-5-2021-08-27/92#avancement-sur-les-services-et-lquipe-des-grands-voisinshttpsmailinglesgrandsvoisinscomtservices-de-les-grands-voisins87-2)[Avancement sur les services et l’équipe des Grands Voisins](https://forum.lesgrandsvoisins.com/t/services-de-les-grands-voisins/87)
+
+Cette semaine, nous avons commencé à rédiger des informations sur [la page « working copy » du site Les Grands Voisins](https://www.lesgrandsvoisins.com/workingcopy) sur les catégories des services et l’équipe: deux sections alors manquantes sur notre page portail. Le concept pour l’instant est d’établir des liens en numérique pour les concrétiser en présentiel. Pour cela, nous avons conçu trois catégories d’offres: le numérique, le présentiel, la coopérative. Nous avions surtout concentré cette semaine nos efforts sur l’ESS, et avons aussi besoins d’incorporer le mixité du grand public, des services sociaux et du pouvoir public.
+
+## [](https://forum.lesgrandsvoisins.com/t/la-gazette-voisine-5-2021-08-27/92#perfectionnement-du-numrique-des-grands-voisinshttpsmailinglesgrandsvoisinscomtnumerique-autonome-et-interdependante41-3)[Perfectionnement du numérique des Grands Voisins](https://forum.lesgrandsvoisins.com/t/numerique-autonome-et-interdependante/41)
+
+Nous avons besoin de vulgariser pourquoi nous utilisons nos outils de logiciels libres de manière autonomes – serveur public SMTP, [Discourse](https://forum.lesgrandsvoisins.com/), ListMonk, [Jitsi Meet](https://jitsi.lesgrandsvoisins.com/) et maintenant [ApostropheCMS](https://www.lesgrandsvoisins.com/) – selon les conseils du [Contrat pour le Web](https://contractfortheweb.org/). Nous nous perfections dans nos utilisations de ces outils et corrigeons des bugs et formons au fur et à measure. C’est un investissement. Nous avons aussi pour projet une utilisation éventuelle de Forem.
+
+## [](https://forum.lesgrandsvoisins.com/t/la-gazette-voisine-5-2021-08-27/92#besoin-davancer-dans-la-prsence-des-grands-voisinshttpsmailinglesgrandsvoisinscomtles-grands-voisins-sont-morts-vive-les-grands-voisins14-4)[Besoin d’avancer dans la présence des Grands Voisins](https://forum.lesgrandsvoisins.com/t/les-grands-voisins-sont-morts-vive-les-grands-voisins/14)
+
+Une partie importante des Grands Voisins, surtout avec la venue de la fin douce du Covid, est la présence des Grands Voisins dans la vie réelle. Pour cela nous serions à la recherche de lieux ‹ popup › où nous pouvons promouvoir des activité par exemple. J’aimerais surtout suggérer que les Grands Voisins sont présents chez chaque Voisins qui s’en revendique. Un premier exemple pourrait être l’organisation d’un apéro TIH-Booster de Linklusion.
+
+## [](https://forum.lesgrandsvoisins.com/t/la-gazette-voisine-5-2021-08-27/92#suivi-de-hup-et-linklusionhttpsmailinglesgrandsvoisinscomthup-linklusion-sont-operationnels385-5)[Suivi de H’Up et Linklusion](https://forum.lesgrandsvoisins.com/t/hup-linklusion-sont-operationnels/38/5)
+
+Après le décaissement d’un petit financement de 1500 euros par, [H’up 1](https://www.h-up.fr/) a proposer une prestation « pour challenger / repenser le modèle économique et réfléchir sur la stratégie de l’entreprise » en trois séances de travail. [Linklusion](https://www.linklusion.fr/) me suit avec une réunion hebdomadaire, dont la priorité est actuellement la fermeture de mon activité de photographe artisanal, probablement par une déclaration de cessation de paiement malheureusement et la négociation tardive avec des créditeurs.

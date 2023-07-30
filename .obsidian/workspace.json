@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/infrastructure.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/infrastructure.md"
               }
             }
           }
@@ -146,22 +146,41 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "90a687c15bd21398",
+  "active": "85e2f4464ec5bf4f",
   "lastOpenFiles": [
+    "content/notes/gazettevoisine/gazettevoisine-010.md",
+    "content/notes/gazettevoisine/gazettevoisine-009.md",
+    "content/notes/gazettevoisine/gazettevoisine-008.md",
+    "content/notes/gazettevoisine/gazettevoisine-006.md",
+    "content/notes/gazettevoisine/gazettevoisine-007.md",
+    "content/notes/gazettevoisine/gazettevoisine-005.md",
+    "content/notes/gazettevoisine/gazettevoisine-004.md",
+    "content/notes/gazettevoisine/gazettevoisine-002.md",
+    "content/notes/gazettevoisine/gazettevoisine-003.md",
+    "content/notes/gazettevoisine/gazettevoisine-001.md",
+    "content/notes/gazettevoisine/desktop.ini",
+    "content/notes/gazettevoisine",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-010.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-009.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-008.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-007.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-006.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-005.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-004.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-003.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-002.md",
+    "content/notes/gvoisins/gazettevoisine/gazettevoisine-001.md",
+    "content/notes/gvoisins/gazettevoisine/desktop.ini",
+    "content/notes/gvoisins/gazettevoisine",
+    "content/notes/gvoisins",
+    "content/_index.md",
     "public/js/graph.e38111ab56c8c2c12d92ea54fee3954d.js",
     "public/js/graph.08d264007b19f9bcf190b3cce1d6e0ee.js",
     "public/js/graph.41306d91111fdec7e10d46319819ddfa.js",
     "public/styles.44529733b336c6f120cdfb3298263013.min.css",
     "public/indices/contentIndex.8446099df77f051503f98a8fd8cbab71.min.json",
-    "public/js/graph.8bab6807f099785405dffdcfd67de0c4.js",
-    "public/styles.9f786c9c259c6a39737f523e39e7de98.min.css",
-    "public/styles.713b7d88997112a0c47f7e83eadd44e5.min.css",
-    "public/styles.9b2852964e2757ff9e7b05d611f5c436.min.css",
-    "layouts/partials/graph-container.html",
-    "public/styles.9133a845bcb614ade14ea17bb6d037e5.min.css",
     "content/notes/user.md",
     "content/notes/interdependance.md",
-    "content/_index.md",
     "content/notes/services.md",
     "public/fonts/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "public/fonts/fonts/fengardoneue/fengardoneue_black-webfont.svg",
@@ -173,17 +192,7 @@
     "assets/styles/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "assets/styles/fonts/fengardoneue/fengardoneue_black-webfont.svg",
     "content/notes/infrastructure.md",
-    "content/notes/resdigitacom-mail.md",
     "public/notes/images/socnum-trees.png",
-    "public/notes/images/socnum-refuge-eglise.jpg",
-    "content/private/content/notes/callouts.md",
-    "content/private/content/notes/CJK + Latex Support (测试).md",
-    "content/private/content/notes/config.md",
-    "content/private/content/notes/search.md",
-    "content/private/content/notes/obsidian.md",
-    "content/private/content/notes/hosting.md",
-    "content/private/content/notes/docker.md",
-    "notes/resdigitacom-mail.md",
-    "content/private/content/notes/philosophy.md"
+    "public/notes/images/socnum-refuge-eglise.jpg"
   ]
 }
