@@ -8,11 +8,11 @@ date: 2023-07-30
 Voici nos applications webs complémentaires: 
 
 1. [App](/notes/apps/app).
-2. [Mail](/notes/apps/mail).
-3. [Odoo](/notes/apps/odoo).
-4. [Wagtail](/notes/apps/wagtail).
-5. [Wikijs](/notes/apps/wikijs).
-6. [WWW](/notes/apps/www).
+2. [Ghost](/notes/apps/ghost).
+3. [Mail](/notes/apps/mail).
+4. [Odoo](/notes/apps/odoo).
+5. [Wagtail](/notes/apps/wagtail).
+7. [WWW](/notes/apps/www).
 
 et nous avons aussi des [applications à venir ou à revitaliser](/notes/apps/backlog).
 
