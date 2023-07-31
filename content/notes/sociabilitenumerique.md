@@ -3,6 +3,16 @@ title: "Salle de sociabilité numérique"
 date: 2023-07-15
 ---
 
+La sociabilité numérique vise à désenclaver et à destigmatiser le numérique avec :
+
+* [Les lundis de la salle de sociabilité numérique](/notes/les lundis)
+* [Des webmestres qui peuvent rendre des comptes](/notes/webmasters) aux usagers
+* [Des bénévoles](/notes/bénévoles) qui aident dans des capacités diverses
+* Avancer la mission [de LesGrandsVoisins.Com](/notes/lesgrandsvoisinscom)
+
+
+---
+
 [La salle de sociabilité du Numérique Créatif des Grands Voisins](https://www.lesgrandsvoisins.com/mission/resdigita/numerique-creatif/sociabilite-numerique), lauréat du Budget Participatif de Paris 14e 2022, permet de déstigmatiser le numérique et d'associer des personnes de tous niveaux de compétences.
 
 Participez à ces ateliers conviviaux d’entraide numérique pour vous-même ou pour votre organisation. Vous pouvez y avancer vos projets et vos savoir-faire aussi en aidant d’autres avec les leurs pour vous-même ou pour votre organisation. Vous pouvez y avancer vos projets et vos savoir-faire aussi en aidant d’autres avec les leurs.
