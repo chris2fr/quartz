@@ -8,3 +8,5 @@ Une fois que vous avez appris l’approche, vous pouvez le reproduire ailleurs. 
 **Contribuer de l’informatique et/ou de l’argent** de toutes natures, soit pour nos usages à l’atelier, soit pour l’usage de personnes en précarité numérique. Vous pouvez effectuer des dons sur www.lesgrandsvoisins.com ou sur www.laressourceriecreative.com en précisant que votre don est destiné pour le numérique créatif des Grands Voisins.
 
 **Prenez contact** avec Chris Mann par courriel au [chris@lesgrandsvoisins.com](mailto:chris@lesgrandsvoisins.com?ref=blog.lesgrandsvoisins.com) ou par téléphone au 07 81 811 811
+
+Voici notre appel à  [bénévoles](https://blog.lesgrandsvoisins.com/numerique-creatif-des-grands-voisins/) sur notre blog.

@@ -5,13 +5,18 @@ enableFooter: true
 date: 2023-07-30
 ---
 
-Parmi nos activités, vous trouverez:
+Voici nos applications webs complémentaires: 
 
-* Le [numérique créatif des Grands Voisins](/notes/numcrea) 
-* Le lundi de 16h à 19h, la [Salle de sociabilité numérique](/notes/sociabilitenumerique) 
-* L'administration de [services internet pour remplacer les GAFAM](/notes/services) 
+1. [App](/notes/apps/app).
+2. [Mail](/notes/apps/mail).
+3. [Odoo](/notes/apps/odoo).
+4. [Wagtail](/notes/apps/wagtail).
+5. [Wikijs](/notes/apps/wikijs).
+6. [WWW](/notes/apps/www).
 
-Nous aimerions des [bénévoles](https://blog.lesgrandsvoisins.com/numerique-creatif-des-grands-voisins/).
+et nous avons aussi des [applications à venir ou à revitaliser](/notes/apps/backlog).
+
+
 
 
 Nos source d'inspiration sont:
