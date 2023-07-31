@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6, thead, .site-title {
 }
 
 h1 {
-  animation: decreaseFontSize 1s ease-in-out forwards; /* Animation to decrease the font size */
+  animation: decreaseFontSize 0.7s ease-in-out forwards; /* Animation to decrease the font size */
   
   width: fit-content;
   // white-space: nowrap;
