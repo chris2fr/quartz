@@ -1,3 +1,7 @@
+---
+title: "La salle de sociabilité numérique"
+date: 2023-07-15
+---
 
 [La salle de sociabilité du Numérique Créatif des Grands Voisins](https://www.lesgrandsvoisins.com/mission/resdigita/numerique-creatif/sociabilite-numerique), lauréat du Budget Participatif de Paris 14e 2022, permet de déstigmatiser le numérique et d'associer des personnes de tous niveaux de compétences.
 
