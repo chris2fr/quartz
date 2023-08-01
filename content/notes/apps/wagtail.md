@@ -1,5 +1,5 @@
 ---
-title: "Wagtail.LesGrandsVoisins.Com"
+title: "✏🌐📜 Wagtail.LesGrandsVoisins.Com"
 date: 2023-07-31
 ---
 

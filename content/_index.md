@@ -1,5 +1,5 @@
 ---
-title: "🌐 ResDigita 🗼"
+title: "🌐⛅💻 ResDigita "
 enableToc: false
 enableFooter: false
 date: 2023-07-31

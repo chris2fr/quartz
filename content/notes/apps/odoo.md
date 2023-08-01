@@ -1,5 +1,5 @@
 ---
-title: "Odoo.LesGrandsVoisins.Com"
+title: "💼📆📋 Odoo.LesGrandsVoisins.Com"
 date: 2023-07-31
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "📮🏤 mail.resdigita.com 🏣"
+title: "📮🏤🏣 mail.resdigita.com "
 enableTOC: false
 date: 2023-07-29
 ---

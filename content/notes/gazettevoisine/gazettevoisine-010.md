@@ -1,6 +1,6 @@
 ---
 date: 2022-10-28
-title: "Gazette Voisine #10"
+title: "📰 Gazette Voisine #10"
 ---
 Bienvenue dans cette édition de la Gazette Voisine. Cela fait un petit moment, et nous avons plein de belles choses à raconter !
 

@@ -1,5 +1,5 @@
 ---
-title: "💃😸🐶👨 La sociabilité numérique"
+title: "☺💻🍵 La sociabilité numérique"
 date: 2023-07-15
 ---
 

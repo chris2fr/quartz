@@ -1,5 +1,5 @@
 ---
-title: "Ghost.LesGrandsVoisins.Com"
+title: "📎📰✏ Ghost.LesGrandsVoisins.Com"
 date: 2023-07-31
 ---
 

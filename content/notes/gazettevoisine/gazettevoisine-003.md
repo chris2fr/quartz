@@ -1,6 +1,6 @@
 ---
 date: 2021-08-12
-title: "Gazette Voisine #3"
+title: "📰 Gazette Voisine #3"
 ---
 Bienvenue au numéro 3 de la gazette de Les Grands Voisins ! Les numéros vous sont aussi disponibles sur le web:
 

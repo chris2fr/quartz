@@ -1,6 +1,6 @@
 ---
 date: 2022-05-19
-title: "Gazette Voisine #9"
+title: "📰 Gazette Voisine #9"
 ---
 **Bienvenu** à la neuvième édition de la Gazette Voisine ! Nous avons du pain sur la planche et avons lentement fait des progrès dont je suis très heureux de vous en faire part ici.
 

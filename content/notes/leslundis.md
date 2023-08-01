@@ -1,5 +1,5 @@
 ---
-title: "Le lundi de la sociabilité numérique"
+title: "🕓💻📝 Le lundi de la sociabilité numérique"
 date: 2023-07-15
 ---
 

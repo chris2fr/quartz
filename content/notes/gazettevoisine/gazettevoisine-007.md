@@ -1,6 +1,6 @@
 ---
 date: 2021-09-14
-title: "Gazette Voisine #7"
+title: "📰 Gazette Voisine #7"
 ---
 # [Gazette des Grands Voisins numéro 7](https://forum.lesgrandsvoisins.com/t/gazette-des-grands-voisins-com-7-en-cours-de-redaction/136)
 

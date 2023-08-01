@@ -1,6 +1,6 @@
 ---
 date: 2021-07-29
-title: "Gazette Voisine #1"
+title: "📰 Gazette Voisine #1"
 ---
 Fontenay-aux-Roses, le 29 juillet, 2021, [La Gazette Voisine 1](https://forum.lesgrandsvoisins.com/) est né il y a tout juste une semaine. L’ambition est d’en faire une gazette hebdomadaire: donc « _hit the presses_ » ! C’est [visible en ligne ici 1](https://forum.lesgrandsvoisins.com/). Vous pouvez vous en [inscrire à la liste de diffusion ici 1](https://list.lesgrandsvoisins.com/subscription/form).
 

@@ -1,5 +1,5 @@
 ---
-title: "WikiJS.LesGrandsVoisins.Com"
+title: "✏ℹ📃 WikiJS.LesGrandsVoisins.Com"
 date: 2023-07-31
 ---
 

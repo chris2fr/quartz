@@ -1,6 +1,6 @@
 ---
 date: 2021-09-02
-title: "Gazette Voisine #6"
+title: "📰 Gazette Voisine #6"
 ---
 # [La Gazette Voisins #6 (2021-09-02)](https://forum.lesgrandsvoisins.com/t/la-gazette-voisins-6-2021-09-02/105)
 

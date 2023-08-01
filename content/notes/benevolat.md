@@ -1,3 +1,6 @@
+---
+title: "💁👥🔧 Bénévolat"
+---
 Vous pouvez, par votre mécénat individuel ou collective, contribuer à rendre l’avancement informatique plus confortable, sécure et accueillante pour tout.e participant.e de tout âge et de tout niveau aux ateliers d’entraide du Numérique Créatif des Grands Voisins. Ce mécénat peut prendre plusieurs formes
 
 **Animer des moments de socialisation** le lundi de 16h à 19h  

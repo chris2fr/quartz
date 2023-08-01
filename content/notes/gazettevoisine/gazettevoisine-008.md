@@ -1,6 +1,6 @@
 ---
 date: 2022-03-08
-title: "Gazette Voisine #8"
+title: "📰 Gazette Voisine #8"
 ---
 Merci de votre intérêt pour [la Gazette voisins # 8](https://com.grandsvoisins.com/t/gazette-voisine-8/157).
 

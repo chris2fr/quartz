@@ -1,6 +1,6 @@
 ---
 date: 2021-08-27
-title: "Gazette Voisine #5"
+title: "📰 Gazette Voisine #5"
 ---
 Bienvenue à la Gazette des Grands Voisins numéro 5 ! La semaine a été productive et les choses se clarifient. Ce numéro et [les numéros précédents se trouvent ici](https://forum.lesgrandsvoisins.com/c/gazette/6).
 
