@@ -7,7 +7,7 @@ date: 2023-07-31
 ---
 
 Bienvenue !
- [ResDigita](https://www.resdigita.com) propose un [web complémentaire](/notes/web) à votre internet existant et une [sociabilité numérique](/notes/sociabilitenumerique) pour désenclaver. 
+ [ResDigita](https://www.resdigita.com) propose un [web complémentaire](/notes/web) à votre internet existant et une [sociabilité numérique](/notes/sociabilitenumerique) pour désenclaver à partir de [LesGrandsVoisins.Com](/notes/lesgrandsvoisinscom).
 
 
 

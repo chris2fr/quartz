@@ -4,14 +4,16 @@ date: 2023-07-31
 enableToc: false
 ---
 
-[Mail.LesGrandsVoisins.Com](https://mail.lesgrandsvoisins.com) permet trois choses: 
+[Mail.LesGrandsVoisins.Com](https://mail.lesgrandsvoisins.com) permet deux choses: 
 
 1. C'est un serveur d'infrastructure publique de courriels (selon les protocoles dit SMTP et IMAP).
 2. C'est un accès à une application web pour la gestion des courriels, des calendriers et des contacts
 
 ## Configuration de votre client de courriel
 
-[!Note] Actuellement on lit ci-dessous "mail.resdigita.com", mais ceci sera remplacé par "mail.lesgrandsvoisins.com" dans un avenir.
+> [!note] Nom de domaine
+> 
+> Actuellement on lit ci-dessous "mail.resdigita.com", mais ceci sera remplacé par "mail.lesgrandsvoisins.com" dans un avenir.
 
 Mail.ResDigita.Com est un serveur public SMTP des Grands Voisins. Il est utilisé par plusieurs services, dont toutes nos applications internes, notre serveur de mailings et notre application de courriel, de calendriers et de contacts sur [mail.lesgrandsvoisins.com](https://mail.resdigita.com).
 
