@@ -1,10 +1,7 @@
 ---
-title: "📮🏤🏣 mail.resdigita.com "
-enableTOC: false
-date: 2023-07-29
+title: Configuration de courriels (SMTP et IMAP)
 ---
 
-Mail.ResDigita.Com est un serveur public SMTP des Grands Voisins. Il est utilisé par plusieurs services, dont toutes nos applications internes, notre serveur de mailings et notre application de courriel, de calendriers et de contacts sur [mail.lesgrandsvoisins.com](https://mail.resdigita.com).
 
 Voici sa configuration manuelle SMTP
 

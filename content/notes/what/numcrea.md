@@ -10,7 +10,7 @@ Le numérique créatif est lauréat du budget participatif de Paris 2022. Il se 
 2. Matériel serveurs
 3. Matériel de montage audio-visuel
 
-Accessoirement, et de manière complémentaire, nous proposons des [services de remplacement des Gafam](/notes/services).
+Accessoirement, et de manière complémentaire, nous proposons des [services de remplacement des Gafam](/notes/what/services).
 
 Voici notre appel à bénévoles:
 https://blog.lesgrandsvoisins.com/numerique-creatif-des-grands-voisins/
@@ -20,8 +20,8 @@ https://blog.lesgrandsvoisins.com/salle-de-sociabilite-numerique/
 
 Voici des photos en lien
 
-![[notes/images/socnum-maison-meds.png]]
+![[content/notes/images/socnum-maison-meds.png]]
 
-![[notes/images/socnum-refuge-eglise.jpg]]
+![[content/notes/images/socnum-refuge-eglise.jpg]]
 
-![[notes/images/socnum-trees.png]]
+![[content/notes/images/socnum-trees.png]]

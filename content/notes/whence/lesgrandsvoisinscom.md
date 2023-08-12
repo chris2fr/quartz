@@ -7,7 +7,7 @@ date: 2023-07-31
 
 Nos comptes nous sont accessibles depuis [le Guichet](https://app.lesgrandsvoisins.com).
 
-LesGrandsVoisins.com édite [la GazetteVoisine](/notes/gazettevoisine).
+LesGrandsVoisins.com édite [la GazetteVoisine](/notes/what/gazettevoisine).
 
 Cette activité prend des ressources. Merci de penser à [faire un don à l'association svp](https://www.lesgrandsvoisins.com/coop/dons/). Les revenus et les prestions sont désassociés en partie grâce à notre choix d'intérêt général. 
 

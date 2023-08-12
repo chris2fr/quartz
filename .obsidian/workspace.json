@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e8fbab95864055",
+        "id": "c1fd697bfdde4b37",
         "type": "tabs",
         "children": [
           {
-            "id": "90a687c15bd21398",
+            "id": "ded60d3bb42af1b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/infrastructure.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/notes/infrastructure.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,33 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "85e2f4464ec5bf4f",
+  "active": "ded60d3bb42af1b8",
   "lastOpenFiles": [
+    "content/notes/what/web.md",
+    "notes/what/web.md",
+    "content/_index.md",
+    "notes/what",
+    "notes/web.md",
+    "notes",
+    "content/notes/when/email-20230731-webmasters.md",
+    "content/notes/way/user.md",
+    "content/notes/what/sociabilitenumerique.md",
+    "content/notes/what/services.md",
+    "content/notes/config/resdigitacom-mail.md",
+    "content/notes/whence/lesgrandsvoisinscom.md",
+    "content/notes/what/benevolat.md",
+    "content/notes/config",
+    "content/notes/task",
+    "content/notes/wisdom",
+    "content/notes/wealth",
+    "content/notes/way",
+    "content/notes/when",
+    "content/notes/where",
+    "content/notes/whence",
+    "content/wwwresdigitacom.md",
+    "content/wwwresdigitaorg.md",
+    "content/().md",
+    "content/notes/config/infrastructure.md",
     "content/notes/gazettevoisine/gazettevoisine-010.md",
     "content/notes/gazettevoisine/gazettevoisine-009.md",
     "content/notes/gazettevoisine/gazettevoisine-008.md",
@@ -158,40 +175,15 @@
     "content/notes/gazettevoisine/gazettevoisine-002.md",
     "content/notes/gazettevoisine/gazettevoisine-003.md",
     "content/notes/gazettevoisine/gazettevoisine-001.md",
-    "content/notes/gazettevoisine/desktop.ini",
-    "content/notes/gazettevoisine",
     "content/notes/gvoisins/gazettevoisine/gazettevoisine-010.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-009.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-008.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-007.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-006.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-005.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-004.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-003.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-002.md",
-    "content/notes/gvoisins/gazettevoisine/gazettevoisine-001.md",
-    "content/notes/gvoisins/gazettevoisine/desktop.ini",
-    "content/notes/gvoisins/gazettevoisine",
-    "content/notes/gvoisins",
-    "content/_index.md",
-    "public/js/graph.e38111ab56c8c2c12d92ea54fee3954d.js",
-    "public/js/graph.08d264007b19f9bcf190b3cce1d6e0ee.js",
-    "public/js/graph.41306d91111fdec7e10d46319819ddfa.js",
-    "public/styles.44529733b336c6f120cdfb3298263013.min.css",
-    "public/indices/contentIndex.8446099df77f051503f98a8fd8cbab71.min.json",
-    "content/notes/user.md",
-    "content/notes/interdependance.md",
-    "content/notes/services.md",
     "public/fonts/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "public/fonts/fonts/fengardoneue/fengardoneue_black-webfont.svg",
-    "content/notes/numcrea.md",
     "public/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "public/fonts/fengardoneue/fengardoneue_black-webfont.svg",
     "assets/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "assets/fonts/fengardoneue/fengardoneue_black-webfont.svg",
     "assets/styles/fonts/fengardoneue/fengardoneue_regular-webfont.svg",
     "assets/styles/fonts/fengardoneue/fengardoneue_black-webfont.svg",
-    "content/notes/infrastructure.md",
     "public/notes/images/socnum-trees.png",
     "public/notes/images/socnum-refuge-eglise.jpg"
   ]

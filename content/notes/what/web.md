@@ -7,14 +7,14 @@ date: 2023-07-30
 
 Voici nos applications webs complémentaires: 
 
-1. [App](/notes/apps/app).
-2. [Ghost](/notes/apps/ghost).
-3. [Mail](/notes/apps/mail).
-4. [Odoo](/notes/apps/odoo).
-5. [Wagtail](/notes/apps/wagtail).
-7. [WWW](/notes/apps/www).
+1. [App](app.md).
+2. [Ghost](ghost.md).
+3. [Mail](mail.md).
+4. [Odoo](odoo.md).
+5. [Wagtail](wagtail.md).
+7. [WWW](www.md).
 
-et nous avons aussi des [applications à venir ou à revitaliser](/notes/apps/backlog).
+et nous avons aussi des [applications à venir ou à revitaliser](backlog.md).
 
 
 

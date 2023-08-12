@@ -1,6 +1,4 @@
 {
-  "spellcheckLanguages": [
-    "en-US",
-    "fr"
-  ]
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true
 }

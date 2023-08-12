@@ -13,4 +13,4 @@ http://app.lesgrandsvoisins.com/
 
 Nous aimerions traiter votre compte avec autant soin que nous prêtons à votre encontre dans toute circonstance.
 
-Avec votre compte, vous avez une commodité pour utiliser [nos services](/notes/services).
+Avec votre compte, vous avez une commodité pour utiliser [nos services](/notes/what/services).

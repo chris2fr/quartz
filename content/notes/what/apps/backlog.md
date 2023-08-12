@@ -9,7 +9,7 @@ Voici nos applications à venir ou à révitaliser:
 3. [KeyCloak](/notes/apps/keycloak).
 4. [KeyPass](/notes/apps/keypass).
 5. [SeaFile](/notes/apps/seafile).
-6. [Wikijs](/notes/apps/wikijs).
+6. [Wikijs](wikijs.md).
 
 Voici des applications que nous avions utilisé que nous n'utilisons plus:
 
