@@ -1,4 +1,5 @@
 ---
-title: ResDigita.org
+title: ResDigita.com
+date: 2023-08-12
 ---
-[ResDigita.com](https://www.redigita.com) est un prestataire de services numériques.
+[ResDigita.com](https://www.redigita.com) assure des prestations opérationnelles de services numériques afin de vous rendre -- vous-même et votre organisation -- plus autonome(s) dans votre vie numérique. 
