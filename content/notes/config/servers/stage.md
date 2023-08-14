@@ -7,7 +7,7 @@ Nous avons mis de côté un serveur de qualification pour le stage. En voici les
 
 > [!note] Pour avoir accès
 >
-> Pour avoir accès au serveur, merci de faire parvenir à [[notes/who/mannchri]] la clef RSA Public de la ou du stagiaire. Avec cela, le ous la stagiaire pourra y accéder avec `ssh root@37.205.14.40` par exemple. **Attention !** Il s'agit d'un système Nixos qui est un peu particulier dans sa gestion. 
+> Le ou la stagiaire pourra y accéder avec `ssh root@stage.resdigit.org` `ssh root@stage.lesgrandsvoisins.com` par exemple. **Attention !** Il s'agit d'un système Nixos qui est un peu particulier dans sa gestion. 
 ## Spécifications du serveur
 
 | . | . |
