@@ -11,7 +11,7 @@ Voici nos applications webs complémentaires:
 2. [Ghost](ghost.md).
 3. [Mail](mail.md).
 4. [Odoo](odoo.md).
-5. [Wagtail](wagtail.md).
+5. [Wagtail](notes/what/apps/wagtail.md).
 7. [WWW](www.md).
 
 et nous avons aussi des [applications à venir ou à revitaliser](backlog.md).
