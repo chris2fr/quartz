@@ -9,6 +9,7 @@ date: 2023-08-14
 	1. Prepare test server for stagiaire
 	2. Have conversation with stagiaire
 	3. Setup Stagiaire with Guichet environment
+		1. Apprendre Markdown
 	4. Suggest GO-Lang learning websites
 		1. https://go.dev/learn/
 			1. https://go.dev/doc/tutorial/getting-started
