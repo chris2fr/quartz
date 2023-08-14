@@ -2,6 +2,10 @@
 title: Serveurs
 ---
 
+Je gère mes serveur NixOS avec le dépôt suivant :
+
+https://github.com/chris2fr/nixops
+
 Voici les serveur que nous avons ou avions:
 
 * hetzner005
