@@ -70,8 +70,8 @@ You can change the theme by editing `assets/custom.scss`. More details on custom
 You can put images anywhere in the `/content` folder.
 
 ```markdown
-Example image (source is in content/notes/images/example.png)
-![Example Image](/content/notes/images/example.png)
+Example image (source is in images/example.png)
+![Example Image](/images/example.png)
 ```
 
 ### My Interactive Graph and Backlinks aren't up to date

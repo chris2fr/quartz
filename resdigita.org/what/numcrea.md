@@ -20,8 +20,8 @@ https://blog.lesgrandsvoisins.com/salle-de-sociabilite-numerique/
 
 Voici des photos en lien
 
-![[content/notes/images/socnum-maison-meds.png]]
+![[images/socnum-maison-meds.png]]
 
-![[content/notes/images/socnum-refuge-eglise.jpg]]
+![[images/socnum-refuge-eglise.jpg]]
 
-![[content/notes/images/socnum-trees.png]]
+![[images/socnum-trees.png]]
