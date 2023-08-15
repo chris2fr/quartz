@@ -4,11 +4,11 @@ defaultContentLanguage = "fr"
 relativeURLs = false
 disablePathToLower = false
 ignoreFiles = [
-    "/content/templates/*",
-    "/content/private/*",
-    "/content/private/*/*",
-    "/content/private/*/*/*",
-    "/content/private/*/*/*/*",
+    "/resdigita.org/templates/*",
+    "/resdigita.org/private/*",
+    "/resdigita.org/private/*/*",
+    "/resdigita.org/private/*/*/*",
+    "/resdigita.org/private/*/*/*/*",
 ]
 summaryLength = 20
 paginate = 10

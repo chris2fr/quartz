@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b8359cf142ca33ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c32f74b45a1c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6c598d5cb4aaf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "config/software/nixos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "950d6e9f069e0434",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1a9a70df3997b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d845563008e20f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f837ce152d7acc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0210ecf9a539dbb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "927f1a673743f8a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b79ace2eeab12a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed84549c4659223",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "config/software/nixos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bb4db9820c5ffa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "config/software/nixos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc804bef4736ef34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02c258609cc6a71e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "config/software/nixos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "bb6c598d5cb4aaf0",
+  "lastOpenFiles": [
+    "plan/backlog.md",
+    "config/software/nixos.md",
+    "plan/changelog.md",
+    "config/software/markdown.md",
+    "config/software/golang.md",
+    "config/software/quartz.md",
+    "when/2023-07-31-email-webmasters.md",
+    "plex",
+    "when/2023-08-14-discussion-chatgpt.md",
+    "config/services/ldap.md",
+    "config/servers.md",
+    "config/software/wagtail.md",
+    "config/servers/stage.md",
+    "way/stage.md",
+    "_index.md",
+    "private/content/notes/callouts.md",
+    "plan",
+    "plex/sitemap.md",
+    "plex/wwwresdigitacom.md",
+    "plex/wwwresdigitaorg.md",
+    "what/web.md",
+    "config.md",
+    "config/domains.md",
+    "notes/config/infrastructure.md",
+    "config/software/discourse.md",
+    "config/services/email.md",
+    "config/domains/mailresdigitacom.md",
+    "config/software.md",
+    "config/services",
+    "config/domains",
+    "config/installations",
+    "config/servers",
+    "config/software",
+    "what/conseils",
+    "what/apps",
+    "whence/lesgrandsvoisinscom"
+  ]
+}
