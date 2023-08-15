@@ -52,6 +52,6 @@ Nous pourrions utiliser KeePass pour partager les mots de passe. (Je ne suis pas
 
 ## Attentes
 
-La ou le stagiaire pourra disposer de son propre serveur de test [[config/servers/stage]]. 
+La ou le stagiaire pourra disposer de son propre serveur de test [[vpsfreecz003]]. 
 
 Il serait bien d'avoir une idée sur la durée du stage. 
