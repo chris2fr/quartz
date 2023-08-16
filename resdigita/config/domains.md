@@ -22,8 +22,8 @@ Voici les noms de domain
 	* [ghostio.gvois.in](https://ghostio.gvois.in)
   * [mail.gvois.in](https://mail.gvois.in)
 	* @gvois.in
-* [resdigita.com](https://resdigita.com)
-	* [www.resdigita.com](https://www.resdigita.com)
+* [resdigita.org](https://resdigita.org)
+	* [www.resdigita.org](https://www.resdigita.org)
 * [avmeet.com](https://avmeet.com)
 	* [www.avmeet.com](https://www.avmeet.com)
 * 

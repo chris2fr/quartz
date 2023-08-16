@@ -3,7 +3,7 @@ title: "🗽🐪🗼 LesGrandsVoisins.Com"
 date: 2023-07-31
 ---
 
-[LesGrandsVoisins.Com](https://www.lesgrandsvoisi's.com) est une association d'intérêt général à fonctionnement coopératif. Elle propose une charte et a décidé de la création de [ResDigita](https://www.resdigita.com) comme le web de, par et pour ses usagers. 
+[LesGrandsVoisins.Com](https://www.lesgrandsvoisi's.com) est une association d'intérêt général à fonctionnement coopératif. Elle propose une charte et a décidé de la création de [ResDigita](https://www.resdigita.org) comme le web de, par et pour ses usagers. 
 
 Nos comptes nous sont accessibles depuis [le Guichet](https://app.lesgrandsvoisins.com).
 

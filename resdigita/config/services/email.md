@@ -7,7 +7,7 @@ Voici sa configuration manuelle SMTP
 
 | Paramètre | Valeur |
 | --- | --- |
-| serveur SMTP | mail.resdigita.com |
+| serveur SMTP | mail.resdigita.org |
 | port SMTP | 25 | 
 | StartTLS | OUI (le chiffrement est géré à ce niveau) |
 | SSL | NON | 
@@ -18,7 +18,7 @@ Voici sa configuration manuelle IMAP
 
 | Paramètre | Valeur |
 | --- | --- |
-| serveur IMAP | mail.resdigita.com |
+| serveur IMAP | mail.resdigita.org |
 | port IMAP | 143 | 
 | StartTLS | OUI |
 | SSL | NON | 

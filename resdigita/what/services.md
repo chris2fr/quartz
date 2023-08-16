@@ -12,7 +12,7 @@ Savez-vous que nous-mêmes, nous pouvons gérer nos propres services sur le clou
 
 En conséquence, nous proposons de développer des services et expertises pour gérer :
 
-1. Un serveur public d'email qui nous permet de livrer et recevoir nos courriels directement sur nos serveurs au lieu de se fier à un tiers tel que Gmail, ou Outlook par exemple. Ce serveur est actuellement sur [mail.resdigita.com](mailresdigitacom.md). 
+1. Un serveur public d'email qui nous permet de livrer et recevoir nos courriels directement sur nos serveurs au lieu de se fier à un tiers tel que Gmail, ou Outlook par exemple. Ce serveur est actuellement sur [mail.resdigita.org](mailresdigitacom.md). 
 2. Une application web qui permet de gérer son courriel, ses calendriers et ses contacts sur [mail.lesgrandsvoisins.com](https://mail.lesgrandsvoisins.com). 
 3. Une manière de créer et gérer soi-même son compte utilisateur à l'adresse [app.lesgrandsvoisins.com](https://app.lesgrandsvoisins.com) à base de LDAP.
 
