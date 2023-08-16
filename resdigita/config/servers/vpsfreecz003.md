@@ -123,3 +123,8 @@ Depuis vpsfreecz003,
 ## Configuration DNS et Reverse Proxy à vpsfreecz00301
 
 Des peudonymes DNS et des reverse proxy sont à configurer depuis vpsfreecz003.lesgrandsvoisins.com
+
+```
+lxc profile create routed
+lxc profile edit routed
+```

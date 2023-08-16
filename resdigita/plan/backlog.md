@@ -7,3 +7,6 @@ date: 2023-08-14
 2. Test and correction de Guichet (2e partie)
 4. Setup Stagiaire with Guichet environment
 5. Ajouter un serveur Ubuntu 
+6. Appliquer fail2ban plus globalement
+7. Migrer le serveur mel à Hetzner
+8. 
