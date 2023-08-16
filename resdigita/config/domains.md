@@ -6,7 +6,7 @@ Voici les noms de domain
 * [lesgrandsvoisins.com](https://lesgrandsvoisins.com)
 	* [www.lesgrandsvoisins.com](https://www.lesgrandsvoisins.com)
 	* [wiki.lesgrandsvoisins.com](https://wiki.lesgrandsvoisins.com)
-	* [mail.lesgrandsvoisins.com](https://mail.lesgrandsvoisins.com)
+	* [mail.lesgrandsvoisins.com](https://mail.lesgrandsvoisins.com) / [[config/domains/lesgrandsvoisins.com/mail]]
 	* [forum.lesgrandsvoisins.com](https://forum.lesgrandsvoisins.com)
 	* @lesgrandsvoisins.com
 * [gvois.in](https://gvois.in)

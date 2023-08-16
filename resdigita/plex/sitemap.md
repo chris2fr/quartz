@@ -10,7 +10,7 @@ date: 2023-08-14
 - notes
 	- [[config]]
 	- [[domains]]
-	  - [[mailresdigitacom]]
+	  - [[config/domains/resdigita.com/mail]]
 	- [[servers]]
 	  - [[email]]
 	  - [[ldap]]
@@ -24,7 +24,7 @@ date: 2023-08-14
 		- [[app]]
 		- [[what/apps/backlog]]
 		- [[ghost]]
-		- [[mail]]
+		- [[what/apps/mail]]
 		- [[odoo]]
 		- [[what/apps/wagtail]]
 		- [[wikijs]]

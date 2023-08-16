@@ -9,7 +9,7 @@ Voici nos applications webs complémentaires:
 
 1. [App](app.md).
 2. [Ghost](ghost.md).
-3. [Mail](mail.md).
+3. [Mail](what/apps/mail.md).
 4. [Odoo](odoo.md).
 5. [Wagtail](what/apps/wagtail.md).
 7. [WWW](www.md).

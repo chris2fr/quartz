@@ -10,7 +10,7 @@ Voici les serveur que nous avons ou avions:
 
 * hetzner005
 	* [[config/domains/gvois.com/mail]]
-	* [[config/software/nixos/simplemailserver]]
+	* [[simplemailserver]]
 	* 
 * vpsfreecz001
 	* [[config/domains/lesgrandsvoisins.com/mail]]
