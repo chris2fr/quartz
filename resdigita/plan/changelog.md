@@ -5,6 +5,10 @@ date: 2023-08-14
 
 Voici des travaux faits.
 
+## 2023-08-21
+
+1. Cache request for blog
+
 ## 2023-08-14
 
 - Fiche de [[way/stage]]
