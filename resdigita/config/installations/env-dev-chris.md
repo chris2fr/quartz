@@ -122,3 +122,7 @@ systemd=true
 https://obsidian.md/
 
 Ouvrir un coffre fort dans le dossier Resdigita
+
+## Trouver les fichiers Windows 
+
+Les fichiers Windows sont dans `/mnt/c/` par exemple  `/mnt/c/Users/`
