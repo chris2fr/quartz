@@ -23,9 +23,12 @@ userPassword: {SSHA}sOPuOKzAYUSkK8yGm7LLjkfajoD6QdP+
 
 Ensuite faire la commande `ldapmodify -l mod.ldif`
 
-Le processus est à répéter pour 
+Le processus est à répéter pour `dn: cn=alice@resdigita.org,ou=users,dc=resdigita,dc=org`, `dn: cn=bob@resdigita.org,ou=users,dc=resdigita,dc=org`, `cn=newuser@lesgv.com,ou=users,dc=resdigita,dc=org`
 
 ## Pour JXplorer
+
+
+http://jxplorer.org/
 
 
 ![[jxplorer-cxn.png]]
