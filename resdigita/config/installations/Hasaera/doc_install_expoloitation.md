@@ -8,8 +8,12 @@
 > 
 > Document contenant les informations dont l'équipe d'exploitation a besoin pour pouvoir assurer une exploitation en règle du système et pouvoir réagir de manière appropriée lorsqu'un problème surgit.
 >Faire une documentation Quartz
-
-
+>comment connecter ldap depuis jxplorer
+>ouvrir jxplorer
+>machine debian pour recup l'ip devant inet  - "ip a"
+ 172.29.49.189/20
+ >BASE DN = dt=resdigita,dc=org 
+ 
 https://dico.developpez.com/html/1150-Gestion-de-projet-dossier-dexploitation.php
 
 Run Book
@@ -27,3 +31,6 @@ $ cat /etc/wsl.conf
 [boot]
 systemd=true
 ``
+>ldapsearch
+>installer slapd
+

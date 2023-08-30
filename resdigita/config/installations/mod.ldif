@@ -1,0 +1,4 @@
+dn: cn=admin,dc=resdigita,dc=com
+changeType: add
+add: userPassword
+userPassword: {SSHA}sOPuOKzAYUSkK8yGm7LLjkfajoD6QdP+
