@@ -3,11 +3,6 @@ apt install slapd
 admin password
 jasff2852198342hjweqf
 
-apt install slapd
-
-admin password
-jasff2852198342hjweqf
-
 ## Pour mettre un mot de passe
 
 Utiliser la commande `slappasswd` pour générer un mot de passe. Cela donne quelque chose comme `{SSHA}sOPuOKzAYUSkK8yGm7LLjkfajoD6QdP+`.
@@ -15,15 +10,15 @@ Utiliser la commande `slappasswd` pour générer un mot de passe. Cela donne que
 On crée un fichier `mod.ldif` avec le content suivant.
 
 ```
-dn: cn=admin,dc=resdigita,dc=com
-changeType: add
+dn:  cn=alice@resdigita.org,ou=users,dc=resdigita,dc=org
+changeType: modify
 add: userPassword
 userPassword: {SSHA}sOPuOKzAYUSkK8yGm7LLjkfajoD6QdP+
 ```
 
-Ensuite faire la commande `ldapmodify -l mod.ldif`
+Ensuite faire la commande `ldapmodify -f mod.ldif -D cn=admin,dc=resdigita,dc=org -W `
 
-Le processus est à répéter pour `dn: cn=alice@resdigita.org,ou=users,dc=resdigita,dc=org`, `dn: cn=bob@resdigita.org,ou=users,dc=resdigita,dc=org`, `cn=newuser@lesgv.com,ou=users,dc=resdigita,dc=org`
+Le processus est à répéter pour  `dn: cn=bob@resdigita.org,ou=users,dc=resdigita,dc=org`, `cn=newuser@lesgv.com,ou=users,dc=resdigita,dc=org`
 
 ## Pour JXplorer
 
