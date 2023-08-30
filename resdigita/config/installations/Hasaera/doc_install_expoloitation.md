@@ -7,13 +7,14 @@
 > Définition de dossier d'exploitation
 > 
 > Document contenant les informations dont l'équipe d'exploitation a besoin pour pouvoir assurer une exploitation en règle du système et pouvoir réagir de manière appropriée lorsqu'un problème surgit.
->Faire une documentation Quartz
->comment connecter ldap depuis jxplorer
->ouvrir jxplorer
->machine debian pour recup l'ip devant inet  - "ip a"
+> Faire une documentation Quartz
+> comment connecter ldap depuis jxplorer
+> ouvrir jxplorer
+> machine debian pour recup l'ip devant inet  - "ip a"
  172.29.49.189/20
- >BASE DN = dt=resdigita,dc=org 
- 
+> BASE DN = dt=resdigita,dc=org 
+> Utilisateur : cn=admin,dc=resdigita,dc=org
+
 https://dico.developpez.com/html/1150-Gestion-de-projet-dossier-dexploitation.php
 
 Run Book
@@ -26,11 +27,12 @@ Windows 11 avec WSL2
 
 Debian 12 depuis WindoseStore
 
-`` 
+``` 
 $ cat /etc/wsl.conf
 [boot]
 systemd=true
-``
->ldapsearch
->installer slapd
+```
+
+> ldapsearch
+> installer slapd
 
