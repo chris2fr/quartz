@@ -34,15 +34,26 @@ Mettre en place un document `config.json` sur la base de `config.json.exemple` u
 
 ### Cloner le code source
 
+Initialiser GIT 
+
+https://linuxize.com/post/how-to-configure-git-username-and-email/
+
+
+
 Cloner le code source depuis [https://github.com/chris2fr/guichet](https://github.com/chris2fr/guichet)
 
 ```
 cd
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
 git clone git@github.com:chris2fr/guichet.git
 cd guichet 
 cp config.json{.exemple,}
 nano config.json
 ```
+
+
+## Créer le fichier config.json
 
 Le fichier config.json devrait à la fin ressembler un peu à ceci:
 
@@ -104,6 +115,15 @@ Penser à installer les packages suivants :
 - slapd
 - golang
 
+Pour installer 
+
+```
+sudo su -
+aptitude
+# ou
+sudo aptitude
+```
+
 ## Faire marcher SystemD sous WSL
 
 WSL2 dans une version récente permet systemd . Pour le faire marcher, il convient de créer un fichier `/etc/wsl2.conf` avec le contenu suivant :
@@ -117,6 +137,10 @@ systemd=true
 https://obsidian.md/
 
 Ouvrir un coffre fort dans le dossier Resdigita
+
+
+Voici une documentation sur Markdown
+https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ## Trouver les fichiers Windows 
 
