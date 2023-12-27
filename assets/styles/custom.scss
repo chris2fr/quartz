@@ -55,8 +55,10 @@
   --color-link-hover: var(--rose-bonbon);
   --color-link-hover-inverted: var(--maximum-yellow-red);
 
+  // --light: var(--color-whiteish);
+  // --dark: var(--color-blackish);
   --light: var(--color-whiteish);
-  --dark: var(--color-blackish);
+  --dark: var  --color-primary-dark);
   --secondary: var(--color-primary-dark);
   --tertiary: var(--color-tertiary-dark);
   --visited: var(--color-link-hover);
@@ -81,7 +83,7 @@
   --highlighted: #574010;
 }
 [saved-theme="dark"] {
-  --light: var(--color-blackish);
+  --light: var(--color-primary-dark);
   --dark: var(--color-whiteish);
   --secondary: var(--color-secondary-light);
   --tertiary: var(--color-tertiary-light);
