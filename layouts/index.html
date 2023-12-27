@@ -3,6 +3,20 @@
 {{ partial "head.html" . }}
 
 <body>
+  <div class="wrapper">
+    <ul class=" nav__list__less">
+      <li class="nav__item nav_top"><a href="https://www.lesgrandsvoisins.com/" class="nav__list">Les Grands Voisins  &gt; </a></li>
+      <li class="nav__item nav_top"><a href="https://www.lesgrandsvoisins.com/numerique/" class="nav__list">Numérique &gt; </a></li>
+      <li class="active nav__item nav_self"><a href="https://guichet.resdigita.com" class="active nav__list">ResDigita</a></li>
+    </ul>
+    <nav role="navigation" class="navigation --jsfied">
+
+      <!-- <ul id="menu" class="nav__list">
+          <li class="subitem nav__item nav_bottom"><a class="subitem nav__list" href="https://keycloak.resdigita.com:10443/realms/master/account/"> &gt; Keycloak</a></li>
+          <li class="subitem nav__item nav_bottom"><a class="subitem nav__list" href="https://guichet.resdigita.com/"> &gt; Guichet</a></li>
+      </ul> -->
+    </nav>
+  </div>
   <div class="singlePage">
     {{partial "search.html" .}}
     {{partial "header.html" .}}
