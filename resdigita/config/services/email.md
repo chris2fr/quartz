@@ -7,18 +7,18 @@ Voici sa configuration manuelle SMTP
 
 | Paramètre | Valeur |
 | --- | --- |
-| serveur SMTP | mail.resdigita.org |
-| port SMTP | 25 | 
+| serveur SMTP | mail.lesgrandsvoisins.com |
+| port SMTP | 587 | 
 | StartTLS | OUI (le chiffrement est géré à ce niveau) |
 | SSL | NON | 
-| Login | vous@lesgrandsvoisins.com  (ou une boîte courrielle gérée sur nos serveurs) | 
+| Login | vous@lesgrandsvoisins.com  (ou une boîte courrielle gérée sur nos serveurs comme @resdigita.com ou similaire) | 
 | Passe | [Votre mot de passe] |
 
 Voici sa configuration manuelle IMAP
 
 | Paramètre | Valeur |
 | --- | --- |
-| serveur IMAP | mail.resdigita.org |
+| serveur IMAP | mail.lesgrandsvoisins.com |
 | port IMAP | 143 | 
 | StartTLS | OUI |
 | SSL | NON | 

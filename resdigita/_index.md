@@ -10,7 +10,7 @@ date: 2023-07-31
 1. [Tableau de Bord Keycloak](https://keycloak.resdigita.com:10443/realms/master/account/) (notamment avec des liens vers des applications) * (* authentification sociale)
 2. [Gestion de profile Guichet](https://guichet.lesgrandsvoisins.com) ** (** authentification par mot de passe et email ou nom d'utilisateur)
 3. [S'enregistrer sur Guichet](https://guichet.lesgrandsvoisins.com/user/new) **
-4. [Consulter son Courriel par Roundcube](https://mail.lesgrandsvoisins.com) *** (*** utilisation du compte email des GV (nomutilisateur@lesgrandsvoisins.com) et le mot de passe du compte principal)
+4. [Consulter son Courriel par Roundcube](https://mail.lesgrandsvoisins.com) *** (*** utilisation du compte email des GV (nomutilisateur@lesgrandsvoisins.com) et le mot de passe du compte principal) [Documentation sur le service de courriel](./config/services/email.md)
 5. [Partager des fichiers par FileBrowser](https://filebrowser.resdigita.com) * 
 6. [Collaborer en temps réel en documents Markdown avec HedgeDoc](https://hedgedoc.resdigita.com) *
 
