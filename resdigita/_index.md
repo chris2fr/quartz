@@ -1,16 +1,14 @@
 ---
-title: "🌐⛅💻 ResDigita "
+title: 🌐⛅💻 Documentation des GV
 enableToc: false
 enableFooter: false
 date: 2023-07-31
-
 ---
-
-Bienvenue à ResDigita.org, les numériques des [Grands Voisins](whence/lesgrandsvoisinscom.md) !
+Bienvenue à la documentation des [GV](whence/lesgrandsvoisinscom.md) !
 
 Ici vous trouverez nos informations [Grand Public](what/sociabilitenumerique.md) et [Geeks du Web Autonome](what/web.md).
 
-Surtout, venez à nos [Lundis de la sociabilité numérique créative](what/leslundis.md) ! C'est de 16h à 19h à 93 ave du Gén Leclerc, 75014 Paris, 5e boutique sur la gauche. Venez comme vous êtes, quel que soit votre niveau et votre projet, pour un moment de socialisation et entreaide. Si vous êtes des métiers informatiques, vous pouvez [accompagner notre infrastructure](config).
+Surtout, venez à nos [Lundis de la sociabilité numérique créative](what/leslundis.md) ! C'est de 16h à 19h à 93 ave du Gén Leclerc, 75014 Paris, 5e boutique sur la gauche. Venez comme vous êtes, quel que soit votre niveau et votre projet, pour un moment de socialisation et entraide. Si vous êtes des métiers informatiques, vous pouvez [accompagner notre infrastructure](config).
 
 
 
