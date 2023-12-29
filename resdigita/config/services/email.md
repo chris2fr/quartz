@@ -28,3 +28,9 @@ Voici sa configuration manuelle IMAP
 Nous pourrions mettre en place une auto-configuration prochainement. 
 
 Le compte est géré sur [app.lesgrandsvoisins.com](https://app.lesgrandsvoisins.com)
+
+## A faire (to do)
+
+- [ ] Mettre en place un système de transfert de courriels
+- [ ] Penser à mettre en place un quota du nombre de BAL à créer puis du volume par BAL en Go. 
+- [ ] Penser à proposer des usages d'alias au lieu de créer un compte distincte par utilisateur.

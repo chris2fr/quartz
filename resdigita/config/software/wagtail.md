@@ -4,7 +4,6 @@ date: 2023-08-14
 ---
 
 
-
 https://github.com/chris2fr/wagtail-lesgv
 
 ## A faire
