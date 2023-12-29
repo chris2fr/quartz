@@ -32,5 +32,8 @@ Le compte est géré sur [app.lesgrandsvoisins.com](https://app.lesgrandsvoisins
 ## A faire (to do)
 
 - [ ] Mettre en place un système de transfert de courriels
+	- [x] Mise en place des renvois statics depuis NixOS dans services.ostfix.virtual
+	- [ ] Mise en place des forwards dans LDAP
+	- [ ] Mettre en place un interface dans Guichet pour la gestion des transferts
 - [ ] Penser à mettre en place un quota du nombre de BAL à créer puis du volume par BAL en Go. 
 - [ ] Penser à proposer des usages d'alias au lieu de créer un compte distincte par utilisateur.
