@@ -21,15 +21,57 @@ Communication \#warfurhandicap \#warfurfrance \#warfurwarafur
 
 numéro de téléphone Habib : +33 6 99 58 99 95
 
+## Projets en cours pour Korkul et Mornei
+
+### Ecole Kordul
+
+https://www.ahfsdi.org/nos-projets/ecole
+
+### Trasport pour les personnes en situation de handicap Kordul et Mornei
+
+Ce n'est pas encore écrit comme projet et tant que tel, mais le transport est pour l'école, pour les orphalins, pour le centre de santé, pour les séniors, et pour les personnes en situation de handicap
+
+https://www.ahfsdi.org/nos-projets/support-orphelins
+
+https://www.ahfsdi.org/nos-projets
+
+### Centre de santé Kordul et Mornei
+
+https://www.ahfsdi.org/nos-projets/assistante-medicale
+
+## Recherche de financements pour les projets 
+
+### Recheche de subventions
+
+Pour fin 2024 : https://www.portailsolidaire.org
+
+parisasso.paris.fr : avant mai 2024
+
+Euro partenaires : organisme européean https://www.touteleurope.eu/l-europe-et-moi/les-financements-europeens-accessibles-aux-associations-et-organisations-non-gouvernementales/ 
+
+### Recherche de matériel adapté à transporter à Darfour en containeur
+
+De quelle matériel ?
+
+* Prise de sang
+* Le coeur (laver les reins)
+* Lit médicalisé (de hôpital)
+* Matériel pour les opérations
+* Scanner / IRM
+* Photographe…
+
+
 ## Adminitstration web
 
 Demandes d'informations d'accès en administration
 
 Il conviendrait pour mieux maitriser les sites et noms de domain.
 
-Pour administrer le contenu de https://www.ahfsdi.org/, nous aimerions connaitre le nom d'utilisateur et mot passe pour : https://www.ahfsdi.org/connexion
+**ahfsdi.org** - Pour administrer le contenu de https://www.ahfsdi.org/, nous aimerions connaitre le nom d'utilisateur et mot passe pour : https://www.ahfsdi.org/connexion  
+L'ancien webmestre est js@cyb____re.org
 
-Pour administrer le contenu de https://www.assohfsd.com/, nous aimerions connaître le nom d'utilisateur et mot de pass pour https://www.assohfsd.com/wp-login.php
+**assohfsd.com** - Pour administrer le contenu de https://www.assohfsd.com/, nous aimerions connaître le nom d'utilisateur et mot de pass pour https://www.assohfsd.com/wp-login.php  
+L'ancien webmestre est Thierry
 
 Voici des notes de Chris Mann au sujet des sites webs en question:
 
@@ -122,8 +164,7 @@ CO***OL Je***e
 
 ```
 
-### ahfsdi.org.org
-
+### ahfsdi.org
 
 https://www.ahfsdi.org
 
@@ -137,6 +178,15 @@ Nom de domaine réservé sur :
 https://www.bookmyname.com/
 
 12 euros par an
+
+L'hébergement est sur  
+https://www.o2switch.fr/
+
+Connexion sur O2Switch  
+https://clients.o2switch.fr/auth/connexion
+
+nom de compte : alab9893
+
 
 ### Notes d'avant
 
@@ -168,8 +218,6 @@ Le webmestre de l'ancien site est Thierry.
 https://paheko.cloud/
 
 ## Dossiers à rendre
-
-
 
 https://www.portailsolidaire.org/projets/project/depot
 
