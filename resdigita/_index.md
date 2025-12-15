@@ -20,6 +20,17 @@ A noter dans vos agendas :
 
 Venez à nos [Lundis de la sociabilité numérique créative](what/leslundis.md) ! C'est de 17h à 20h30 à 93 ave du Gén Leclerc, 75014 Paris, 7e boutique sur la gauche. Venez comme vous êtes, quel que soit votre niveau et votre projet, pour un moment de socialisation et entraide. Si vous êtes des métiers informatiques, vous pouvez [accompagner notre infrastructure](config).
 
+## Système de mots de passe
+
+Comment faire ?
+
+1. Pour créer un compte dans le logiciel de gestion de mots de passe ?
+2. Pour accéder à travers l'interface web ?
+3. Pour enregistrer un mot de passe ?
+4. Pour retrouver un mot de passe ?
+5. Pour changer le mot de passe principal ?
+6. Pour exporter les données ?
+
 ## Système de prêts et échanges
 
 Il est notre ambition d'animer en réseau avec d'autres associations un système décentralisé de prêts et échanges de matériel et de services. 
