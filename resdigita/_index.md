@@ -29,7 +29,9 @@ Comment faire ?
 3. Pour enregistrer un mot de passe ?
 4. Pour retrouver un mot de passe ?
 5. Pour changer le mot de passe principal ?
-6. Pour exporter les données ?
+6. Installer BitWarden sur le téléphone ?
+7. Installer BitWarden sur l'ordinateur ?
+8. Pour exporter les données ?
 
 ## Système de prêts et échanges
 
