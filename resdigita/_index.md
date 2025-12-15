@@ -33,6 +33,7 @@ Comment faire ?
 7. Installer BitWarden sur l'ordinateur ?
 8. Pour exporter les données ?
 9. Aller vers un autre système de gestion de mal de passe ?
+10. Pour choisir sa gestionnaire de mots de passe ?
 
 ## Système de prêts et échanges
 
