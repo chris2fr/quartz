@@ -32,6 +32,7 @@ Comment faire ?
 6. Installer BitWarden sur le téléphone ?
 7. Installer BitWarden sur l'ordinateur ?
 8. Pour exporter les données ?
+9. Aller vers un autre système de gestion de mal de passe ?
 
 ## Système de prêts et échanges
 
